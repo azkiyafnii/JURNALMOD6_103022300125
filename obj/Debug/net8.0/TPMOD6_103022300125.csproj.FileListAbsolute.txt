@@ -1,0 +1,15 @@
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.AssemblyInfoInputs.cache
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.AssemblyInfo.cs
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.csproj.CoreCompileInputs.cache
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.sourcelink.json
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\bin\Debug\net8.0\TPMOD6_103022300125.exe
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\bin\Debug\net8.0\TPMOD6_103022300125.deps.json
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\bin\Debug\net8.0\TPMOD6_103022300125.runtimeconfig.json
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\bin\Debug\net8.0\TPMOD6_103022300125.dll
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\bin\Debug\net8.0\TPMOD6_103022300125.pdb
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.dll
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\refint\TPMOD6_103022300125.dll
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.pdb
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\TPMOD6_103022300125.genruntimeconfig.cache
+C:\Users\afniazk\source\repos\TPMOD6_103022300125\obj\Debug\net8.0\ref\TPMOD6_103022300125.dll
